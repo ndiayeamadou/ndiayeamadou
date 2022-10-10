@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ndiayeamadou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi,
 
-<!---
-ndiayeamadou/ndiayeamadou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Amadou from Senegal ✨. I'm a software developer.
+🌱 I really enjoy learning languages and frameworks like PHP, Laravel, Vue.JS, Symfony.
